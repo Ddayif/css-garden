@@ -1,10 +1,71 @@
 /* Agrega aquí tus estilos*/
+body{
+	background-color: #F0FFF0;
+}
 
-header h1,h2,h3{
-	font-size: 40px;
-	color: DarkCyan;
+h2, h3{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+}
+
+#zen-intro h1{
 	text-align: center;
+	color: Teal;
+	font-size: 40px;
+}
+
+.page-wrapper section{
+	background-color: Snow;
+	font-size: 18px;
+	color: SlateBlue;
+	font-family: 'Oswald', sans-serif;
 	padding: 30px;
+	margin: 0;
+
+}
+
+.intro h2, h3{
+	color: RebeccaPurple;
+	font-size: 20px;
+
+}
+
+#zen-explanation h3{
+	color: RebeccaPurple;
+	font-size: 20x;
+}
+
+.explanation p{
+	font-size: 18px;
+	color: PaleVioletRed;
+	font-family: 'Oswald', sans-serif;
+	padding: 10px;
 	margin: 0;
 }
 
+.participation p{
+	background-color: Snow;
+	font-size: 18px;
+	color: PaleVioletRed;
+	font-family: 'Oswald', sans-serif;
+	padding: 10px;
+	margin: 0;
+
+}
+
+.benefits p{
+	font-size: 18px;
+	color: PaleVioletRed;
+	font-family: 'Oswald', sans-serif;
+	padding: 10px;
+	margin: 0;
+}
+
+.requirements p{
+	background-color: Snow;
+	font-size: 18px;
+	color: PaleVioletRed;
+	font-family: 'Oswald', sans-serif;
+	padding: 10px;
+	margin: 0;
+}
